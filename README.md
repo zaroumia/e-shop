@@ -1,1 +1,1 @@
-e-shop
+e-shop : Site de vente des articles IT en ligne
